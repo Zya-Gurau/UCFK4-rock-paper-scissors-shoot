@@ -1,0 +1,36 @@
+Rock Paper Scissors Shoot!
+
+Authors: Emily McGifford (99588686), Zya Gurau (64646583)
+Date:   12 Oct 2023
+
+How to download:
+1. download the group_505 folder from the gitlab
+2. open the terminal and change directories till you are in the group_505 folder
+3. plug your UCFunKit4 in to the computer and hit the reset button (S2)
+4. type "make program" into the terminal and wait for it to download
+5. repeat for the second UCFunKit4 board
+
+Note: sunlight can interfer with the IR transmission. best played in a dark room.
+
+How to play:
+This is a 2-player rock, paper scissors shooter game. you can shoot rock missiles, paper missiles, and scissor missiles.
+The goal of the game is to hit the other player with a missile, if you get hit by any missiles you lose.
+If the missile hits the back of your screen you also lose.
+
+to defend against missiles you must shoot the correct missile type which will cancel out the incoming missile:
+Rock missiles are defeated by Paper missiles
+Scissors missiles are defeated by Rock missiles
+Paper missiles are defeated by Scissors missiles
+
+Controls:
+up - move player up
+down - move player down
+push - fire Rock missile
+left - fire Scissors missile
+right - fire Paper missile
+
+Note: orient your Fun Kit with the IR transmitter and reciever at the top
+
+to start the game push in on the navswitch (this will start the game for both the opponent and player).
+
+
